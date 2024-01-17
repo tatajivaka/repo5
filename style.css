@@ -1,0 +1,18 @@
+body{
+    background-image: url(./images/wp3287416.jpg);
+}
+h1{ text-align: center;
+    color: red;
+}
+p{
+    color: blue;
+    
+}
+u{
+    color: brown;
+}
+h3{
+    color: chartreuse;
+    font-size: 2rem;
+    background-color:gray;
+}
